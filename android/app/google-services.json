@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "239985887977",
+    "project_id": "bitincoin-477e4",
+    "storage_bucket": "bitincoin-477e4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:239985887977:android:7354e052db4b5eb9e07e78",
+        "android_client_info": {
+          "package_name": "com.xcoin.bitin_coin_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "239985887977-kpd335fi2eaklnhp994hdeauc7lgkubc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBebZ7ZEIikSq8-aNzVINvyI7BCk2Re4_s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "239985887977-kpd335fi2eaklnhp994hdeauc7lgkubc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
